@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Olá, eu sou William Correia
 
-<!--
-**William-0710/William-0710** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou desenvolvedor com foco em front-end e automações, criando sites institucionais e soluções web funcionais e responsivas.
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias
+- HTML5
+- CSS3
+- JavaScript
+- Git & GitHub
+- N8N
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Projetos em destaque
+- 🐾 [Pet Moretti](https://github.com/William-0710/site-pet-moretti)  
+- 💈 [Barbearia JC](https://github.com/William-0710/site-barbeariajc)  
+
+## 🌐 Sites no ar
+- https://www.petmoretti.com
+
+📫 **Contato**  
+- Email: Williamcneto2015@gmail.com

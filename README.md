@@ -7,21 +7,13 @@ Tenho experiência com integração de APIs, banco de dados, automações e depl
 🚀 Tecnologias
 
 HTML5
-
 CSS3
-
 JavaScript
-
 Next.js
-
 Git & GitHub
-
 Prisma ORM
-
 PostgreSQL (Neon)
-
 Vercel
-
 n8n
 
 💼 Projetos em destaque

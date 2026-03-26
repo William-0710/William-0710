@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou William Correia
 
-Desenvolvedor Web Fullstack focado em criar aplicações robustas, escaláveis e prontas para produção. Atualmente, especializando em **Inteligência Artificial na FIAP**, unindo o desenvolvimento de software tradicional com o poder das automações e modelos inteligentes.
+Desenvolvedor Web Fullstack focado em criar aplicações robustas, escaláveis e prontas para produção. Atualmente, cursando **Analise Desenvolvimento de Sistemas**, unindo o desenvolvimento de software tradicional com o poder das automações e modelos inteligentes.
 
 ---
 

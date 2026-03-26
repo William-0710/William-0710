@@ -34,15 +34,6 @@ Site institucional responsivo focado em SEO e performance para negócios locais.
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=William-0710&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=William-0710&layout=compact&langs_count=7&theme=dark" />
-</p>
-
----
-
 ### 📫 Vamos Conversar?
 
 - **LinkedIn:** [william-correia-de-andrade](https://www.linkedin.com/in/william-correia-de-andrade/)

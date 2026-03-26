@@ -1,43 +1,52 @@
 # 👋 Olá, eu sou William Correia
 
-Sou desenvolvedor web, criando sites e aplicações web completas, do front-end ao backend, com foco em soluções funcionais, responsivas e prontas para produção.
+Desenvolvedor Web Fullstack focado em criar aplicações robustas, escaláveis e prontas para produção. Atualmente, especializando em **Inteligência Artificial na FIAP**, unindo o desenvolvimento de software tradicional com o poder das automações e modelos inteligentes.
 
-Tenho experiência com integração de APIs, banco de dados, automações e deploy em ambiente real, sempre buscando resolver problemas de forma prática.
+---
 
-🚀 Tecnologias
+### 🚀 Tecnologias & Tools
 
-HTML5
+- **Frontend:** Next.js (App Router), React, Tailwind CSS, TypeScript.
+- **Backend:** NestJS, Node.js, Prisma ORM.
+- **Banco de Dados:** PostgreSQL (Supabase/Neon).
+- **Infraestrutura:** Vercel, Railway, Git & GitHub.
+- **Automação:** n8n, Integração de APIs.
 
-CSS3
+---
 
-JavaScript
+### 💼 Projetos em Destaque
 
-Next.js
+#### 💰 FinControl (SaaS Financeiro)
+Aplicação completa de gestão financeira com lógica de "Caixinhas" (Multi-goals), Dashboard em tempo real e exportação de relatórios PDF de alta fidelidade.
+- **Stack:** NestJS, Next.js, Prisma, PostgreSQL.
+- **Deploy:** Railway (Back) & Vercel (Front).
+- 📂 [Repositório do Projeto](https://github.com/William-0710/fincontrol)
 
-Git & GitHub
+#### 🧠 Consciência (SaaS – MVP)
+Landing page + API para captura e armazenamento de leads, com backend performático para conversão.
+- **Stack:** Next.js, Prisma, PostgreSQL.
+- 🔗 [Link do Projeto](https://consciencia-saas.vercel.app)
+- 📂 [Repositório](https://github.com/William-0710/consciencia-saas)
 
-Prisma ORM
+#### 🐾 Pet Moretti
+Site institucional responsivo focado em SEO e performance para negócios locais.
+- 🔗 [Acesse o Site](https://www.petmoretti.com.br)
 
-PostgreSQL (Neon)
+---
 
-Vercel
+### 📊 Estatísticas do GitHub
 
-n8n
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=William-0710&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=William-0710&layout=compact&langs_count=7&theme=dark" />
+</p>
 
-# 💼 Projetos em destaque
+---
 
-## 🔹 ConsciencIA (SaaS – MVP)
-Landing page + API para captura e armazenamento de leads, com backend em Next.js, Prisma e PostgreSQL, deployado em produção.
+### 📫 Vamos Conversar?
 
-🔗 https://consciencia-saas.vercel.app
+- **LinkedIn:** [william-correia-de-andrade](https://www.linkedin.com/in/william-correia-de-andrade/)
+- **E-mail:** [Williamcneto2015@gmail.com](mailto:Williamcneto2015@gmail.com)
 
-📂 https://github.com/William-0710/consciencia-saas
-
-## 🔹 Pet Moretti
-Site institucional responsivo para negócio local.
-
-🔗 https://www.petmoretti.com
-
-📫 Contato
-
-Email: Williamcneto2015@gmail.com
+---
+"Sempre buscando resolver problemas reais de forma prática e escalável."
